@@ -34,3 +34,9 @@ print("Minimum number: ", min(3, 4, 5, 6, 7, 3, 2, 10))
 
 print("Rounded number: ", round(3.7))
 
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+print("Hello, " + name + "! You are " + age + " years old.")
+
+
